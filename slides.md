@@ -47,7 +47,7 @@ Para participar en esta plaforma hay dos aplicaciones que te facilitaran la part
 |                                                     |                                 |               |
 | --------------------------------------------------- | ------------------------------- | ------------- |
 | <kbd>CTF</kbd>                           | https://www.wardriving.lat/ctf/ | Usala para ver tu progreso en el CTF y visualizar el mapa con tus avances |
-| <kbd>Marauder</kbd>                      | https://marauder.wardriving.lat/marauder-ui-pro/ | Usala junto con tu badge o tu hardware que cuente con el firmware Marauder ESP32 y explora pero no pierdas de vista tu participación en el CTF |
+| <kbd>Marauder</kbd>                      | https://marauder.wardriving.lat/ | Usala junto con tu badge o tu hardware que cuente con el firmware Marauder ESP32 y explora pero no pierdas de vista tu participación en el CTF |
 
 
 
