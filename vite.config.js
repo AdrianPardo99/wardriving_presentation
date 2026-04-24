@@ -1,6 +1,6 @@
 export default defineConfig({
     plugins: [vue()],
     server: {
-      allowedHosts: 'all'
+      allowedHosts: 'about.wardriving.lat'
     }
   })
